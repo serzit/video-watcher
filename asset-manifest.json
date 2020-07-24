@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/video-watcher/static/css/main.03c6ca28.chunk.css",
-    "main.js": "/video-watcher/static/js/main.ed6abf43.chunk.js",
-    "main.js.map": "/video-watcher/static/js/main.ed6abf43.chunk.js.map",
+    "main.js": "/video-watcher/static/js/main.19fe9e04.chunk.js",
+    "main.js.map": "/video-watcher/static/js/main.19fe9e04.chunk.js.map",
     "runtime-main.js": "/video-watcher/static/js/runtime-main.e644c48b.js",
     "runtime-main.js.map": "/video-watcher/static/js/runtime-main.e644c48b.js.map",
     "static/js/2.ccffa6ed.chunk.js": "/video-watcher/static/js/2.ccffa6ed.chunk.js",
     "static/js/2.ccffa6ed.chunk.js.map": "/video-watcher/static/js/2.ccffa6ed.chunk.js.map",
     "index.html": "/video-watcher/index.html",
-    "precache-manifest.c091239f28a90e4cc68dd1f0fa667eeb.js": "/video-watcher/precache-manifest.c091239f28a90e4cc68dd1f0fa667eeb.js",
+    "precache-manifest.872dc6c9149045d33e0479798f6168aa.js": "/video-watcher/precache-manifest.872dc6c9149045d33e0479798f6168aa.js",
     "service-worker.js": "/video-watcher/service-worker.js",
     "static/css/main.03c6ca28.chunk.css.map": "/video-watcher/static/css/main.03c6ca28.chunk.css.map",
     "static/js/2.ccffa6ed.chunk.js.LICENSE.txt": "/video-watcher/static/js/2.ccffa6ed.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e644c48b.js",
     "static/js/2.ccffa6ed.chunk.js",
     "static/css/main.03c6ca28.chunk.css",
-    "static/js/main.ed6abf43.chunk.js"
+    "static/js/main.19fe9e04.chunk.js"
   ]
 }
