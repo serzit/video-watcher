@@ -13,6 +13,9 @@ class App extends React.Component {
 		selectedVideo: null
 	};
 
+	componentDidMount() {
+		this.onInputSubmit('music')
+	}
 
 	onInputSubmit = async input => {
 		const response = await youtube.get('/search', {
