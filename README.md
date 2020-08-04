@@ -1,3 +1,6 @@
+!!! Site is published at https://serzit.github.io/video-watcher/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
